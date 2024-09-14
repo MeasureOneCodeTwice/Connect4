@@ -1,7 +1,8 @@
 A simple game of connect 4 played on the terminal.
 
+### Usage
 to play type
-./play
+'./play'
 
-Requirements: 
+### Requirements: 
 Bash, g++, terminal with colored output
